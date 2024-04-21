@@ -1,0 +1,14 @@
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\bin\Debug\net8.0\Calculadora_em_C#.exe
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\bin\Debug\net8.0\Calculadora_em_C#.deps.json
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\bin\Debug\net8.0\Calculadora_em_C#.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\bin\Debug\net8.0\Calculadora_em_C#.dll
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\bin\Debug\net8.0\Calculadora_em_C#.pdb
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.dll
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\refint\Calculadora_em_C#.dll
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.pdb
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\Calculadora_em_C#.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Desktop\Calculadora_em_C#\obj\Debug\net8.0\ref\Calculadora_em_C#.dll
